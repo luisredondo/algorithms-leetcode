@@ -7,6 +7,8 @@ I will raise them and classify them according to the difficulty that the platfor
 
 ## Easy
 
-[Jewels and Stones](https://github.com/luisredondo/Algorithms-LeetCode/blob/master/jewels-and-stones.md)
+[Jewels and Stones](https://github.com/luisredondo/algorithms-leetcode/blob/master/easy/jewels-and-stones.md)
+[Big Countries](https://github.com/luisredondo/algorithms-leetcode/blob/master/easy/big-countries.md)
+[Robot Return To Origin](https://github.com/luisredondo/algorithms-leetcode/blob/master/easy/robot-return-to-origin.md)
 
 
