@@ -15,4 +15,8 @@ I will raise them and classify them according to the difficulty that the platfor
 
 [Fibonacci Number](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/fibonacci_number.md)
 
+[Swap Salary](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/swap_salary.md)
+
+[Squares of a Sorted Array](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/squares-of-a-sorted-array.md)
+
 
