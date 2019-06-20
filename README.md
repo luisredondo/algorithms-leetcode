@@ -19,4 +19,6 @@ I will raise them and classify them according to the difficulty that the platfor
 
 [Squares of a Sorted Array](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/squares-of-a-sorted-array.md)
 
+[To Lower Case](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/to-lower-case.md)
+
 
