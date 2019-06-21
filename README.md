@@ -21,4 +21,6 @@ I will raise them and classify them according to the difficulty that the platfor
 
 [To Lower Case](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/to-lower-case.md)
 
+[N-Repeated Element in Size 2N Array](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/n-repeated-element-in-size-2n-array.md)
+
 
