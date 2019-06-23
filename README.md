@@ -26,3 +26,5 @@ I will raise them and classify them according to the difficulty that the platfor
 [Unique Morse Code Words](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/unique-morse-code-words.md)
 
 [Merge Two Binary Trees](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/merge-two-binary-trees.md)
+
+[Sort Array By Parity](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/sort-array-by-parity.md)
