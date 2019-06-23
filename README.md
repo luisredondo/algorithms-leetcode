@@ -24,3 +24,5 @@ I will raise them and classify them according to the difficulty that the platfor
 [N-Repeated Element in Size 2N Array](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/n-repeated-element-in-size-2n-array.md)
 
 [Unique Morse Code Words](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/unique-morse-code-words.md)
+
+[Merge Two Binary Trees](https://github.com/luisredondo/algorithms-leetcode/tree/master/easy/merge-two-binary-trees.md)
